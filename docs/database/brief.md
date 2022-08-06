@@ -1,0 +1,1 @@
+[【尚硅谷】Redis 6 入门到精通 超详细 教程](https://www.bilibili.com/video/BV1Rv41177Af?spm_id_from=333.999.0.0)
